@@ -1,0 +1,41 @@
+
+	{
+	  "plugin": "DiscordCheaterDetector",
+	  "enabled": true,
+	  "discordClient": "discord",
+	  "channelID": "1212560457282494504",
+	  "color": 16711680,
+	  "timeFrame": 1000,
+	  "killThreshold": 1
+	},
+	{
+	  "plugin": "DiscordItemSpawnReporter",
+	  "enabled": true,
+	  "discordClient": "discord",
+	  "channelID": "1212560457282494504",
+	  "color": 16761867
+	},
+	{
+	  "plugin": "DiscordPacketAcknowledgmentReporter",
+	  "enabled": true,
+	  "discordClient": "discord",
+	  "channelID": "1212560457282494504",
+	  "color": 16761867
+	},
+	{
+	  "plugin": "DiscordBayonetCheaterDetector",
+	  "enabled": true,
+	  "discordClient": "discord",
+	  "channelID": "1212560548336762880",
+	  "color": 16711680,
+	  "timeFrame": 11000,
+	  "killThreshold": 9
+	},
+	{
+	  "plugin": "DiscordPlayerConnectionLogger",
+	  "enabled": true,
+	  "discordClient": "discord",
+	  "channelID": "1212560429566525440",
+          "ipAddressLogFile": "C:\\Users\\Administrator\\Desktop\\anti\\new2\\ip_addresses.txt",
+          "playerInfoFile": "C:\\Users\\Administrator\\Desktop\\anti\\new2\\player_info.json"
+	},
